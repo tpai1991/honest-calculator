@@ -4,9 +4,14 @@
 ## Requirements
 Install python3 on PC
 
-## How to Run
+## Usage
 In the directory where the code is based, run:
 
 ```
 python3 calculator.py
 ```
+
+You will be prompted for inputs to the calculator. Provider your input and press `ENTER` key. 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
